@@ -10,3 +10,6 @@ hmac = "0.12"
 pbkdf2 = "0.10"
 rand = "0.8"
 sha2 = "0.10"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+
